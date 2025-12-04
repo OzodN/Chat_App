@@ -5,7 +5,7 @@ The project demonstrates clean architecture, SOLID principles, OOP design,
 JSON-based file storage, centralized logging, regex validation, and the use of
 Time API, ResourceBundle, and File API.
 
-NOTE: This project is educational made in order to learn backend development and practice clean code.
+NOTE: This project is educational and designed in order to learn backend development and practice clean code.
 
 ---
 
