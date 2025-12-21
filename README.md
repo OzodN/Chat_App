@@ -47,6 +47,7 @@ src/
 ---
 
 ✨ Features
+
 🔐 Email Registration & Login
 
 Users register and log in only using email.
@@ -59,10 +60,9 @@ All data is stored in plain .txt files:
 ```
 | File                    | Purpose                                        |
 | ----------------------- | ---------------------------------------------- |
-| `data/users.txt`        | stores user profiles (each line = CSV) |
+| `data/users.txt`        | stores user profiles (each line = CSV)         |
 | `data/chatMessages.txt` | stores chat messages with timestamps           |
 | `data/app.log`          | application logs                               |
-
 ```
 
 Each entry is saved as a single-line CSV:
@@ -112,7 +112,6 @@ data/app.log
  - LSP: classes can be safely substituted
 
  - Clean layers: Controller → Service → Repository
-
 ---
 
 🛠 Technologies Used
@@ -133,11 +132,10 @@ data/app.log
 ---
 
 🚀 How to Run
-1. Requirements
 
+1. Requirements
  - Java 17 or newer
  - IntelliJ IDEA / Eclipse / VS Code / CLI
-
 2. Configure the logger
 
 Open:
